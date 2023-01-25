@@ -1,0 +1,15 @@
+C:\Users\sreelakshmi.sajeev\source\repos\Question_Nine\Question_Nine\bin\Debug\net6.0\Question_Nine.exe
+C:\Users\sreelakshmi.sajeev\source\repos\Question_Nine\Question_Nine\bin\Debug\net6.0\Question_Nine.deps.json
+C:\Users\sreelakshmi.sajeev\source\repos\Question_Nine\Question_Nine\bin\Debug\net6.0\Question_Nine.runtimeconfig.json
+C:\Users\sreelakshmi.sajeev\source\repos\Question_Nine\Question_Nine\bin\Debug\net6.0\Question_Nine.dll
+C:\Users\sreelakshmi.sajeev\source\repos\Question_Nine\Question_Nine\bin\Debug\net6.0\Question_Nine.pdb
+C:\Users\sreelakshmi.sajeev\source\repos\Question_Nine\Question_Nine\obj\Debug\net6.0\Question_Nine.csproj.AssemblyReference.cache
+C:\Users\sreelakshmi.sajeev\source\repos\Question_Nine\Question_Nine\obj\Debug\net6.0\Question_Nine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreelakshmi.sajeev\source\repos\Question_Nine\Question_Nine\obj\Debug\net6.0\Question_Nine.AssemblyInfoInputs.cache
+C:\Users\sreelakshmi.sajeev\source\repos\Question_Nine\Question_Nine\obj\Debug\net6.0\Question_Nine.AssemblyInfo.cs
+C:\Users\sreelakshmi.sajeev\source\repos\Question_Nine\Question_Nine\obj\Debug\net6.0\Question_Nine.csproj.CoreCompileInputs.cache
+C:\Users\sreelakshmi.sajeev\source\repos\Question_Nine\Question_Nine\obj\Debug\net6.0\Question_Nine.dll
+C:\Users\sreelakshmi.sajeev\source\repos\Question_Nine\Question_Nine\obj\Debug\net6.0\refint\Question_Nine.dll
+C:\Users\sreelakshmi.sajeev\source\repos\Question_Nine\Question_Nine\obj\Debug\net6.0\Question_Nine.pdb
+C:\Users\sreelakshmi.sajeev\source\repos\Question_Nine\Question_Nine\obj\Debug\net6.0\Question_Nine.genruntimeconfig.cache
+C:\Users\sreelakshmi.sajeev\source\repos\Question_Nine\Question_Nine\obj\Debug\net6.0\ref\Question_Nine.dll

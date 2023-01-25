@@ -1,0 +1,15 @@
+C:\Users\sreelakshmi.sajeev\source\repos\Question_one\Question_one\bin\Debug\net6.0\Question_one.exe
+C:\Users\sreelakshmi.sajeev\source\repos\Question_one\Question_one\bin\Debug\net6.0\Question_one.deps.json
+C:\Users\sreelakshmi.sajeev\source\repos\Question_one\Question_one\bin\Debug\net6.0\Question_one.runtimeconfig.json
+C:\Users\sreelakshmi.sajeev\source\repos\Question_one\Question_one\bin\Debug\net6.0\Question_one.dll
+C:\Users\sreelakshmi.sajeev\source\repos\Question_one\Question_one\bin\Debug\net6.0\Question_one.pdb
+C:\Users\sreelakshmi.sajeev\source\repos\Question_one\Question_one\obj\Debug\net6.0\Question_one.csproj.AssemblyReference.cache
+C:\Users\sreelakshmi.sajeev\source\repos\Question_one\Question_one\obj\Debug\net6.0\Question_one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreelakshmi.sajeev\source\repos\Question_one\Question_one\obj\Debug\net6.0\Question_one.AssemblyInfoInputs.cache
+C:\Users\sreelakshmi.sajeev\source\repos\Question_one\Question_one\obj\Debug\net6.0\Question_one.AssemblyInfo.cs
+C:\Users\sreelakshmi.sajeev\source\repos\Question_one\Question_one\obj\Debug\net6.0\Question_one.csproj.CoreCompileInputs.cache
+C:\Users\sreelakshmi.sajeev\source\repos\Question_one\Question_one\obj\Debug\net6.0\Question_one.dll
+C:\Users\sreelakshmi.sajeev\source\repos\Question_one\Question_one\obj\Debug\net6.0\refint\Question_one.dll
+C:\Users\sreelakshmi.sajeev\source\repos\Question_one\Question_one\obj\Debug\net6.0\Question_one.pdb
+C:\Users\sreelakshmi.sajeev\source\repos\Question_one\Question_one\obj\Debug\net6.0\Question_one.genruntimeconfig.cache
+C:\Users\sreelakshmi.sajeev\source\repos\Question_one\Question_one\obj\Debug\net6.0\ref\Question_one.dll

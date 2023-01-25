@@ -1,0 +1,15 @@
+C:\Users\sreelakshmi.sajeev\source\repos\Question_Eight\Question_Eight\bin\Debug\net6.0\Question_Eight.exe
+C:\Users\sreelakshmi.sajeev\source\repos\Question_Eight\Question_Eight\bin\Debug\net6.0\Question_Eight.deps.json
+C:\Users\sreelakshmi.sajeev\source\repos\Question_Eight\Question_Eight\bin\Debug\net6.0\Question_Eight.runtimeconfig.json
+C:\Users\sreelakshmi.sajeev\source\repos\Question_Eight\Question_Eight\bin\Debug\net6.0\Question_Eight.dll
+C:\Users\sreelakshmi.sajeev\source\repos\Question_Eight\Question_Eight\bin\Debug\net6.0\Question_Eight.pdb
+C:\Users\sreelakshmi.sajeev\source\repos\Question_Eight\Question_Eight\obj\Debug\net6.0\Question_Eight.csproj.AssemblyReference.cache
+C:\Users\sreelakshmi.sajeev\source\repos\Question_Eight\Question_Eight\obj\Debug\net6.0\Question_Eight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreelakshmi.sajeev\source\repos\Question_Eight\Question_Eight\obj\Debug\net6.0\Question_Eight.AssemblyInfoInputs.cache
+C:\Users\sreelakshmi.sajeev\source\repos\Question_Eight\Question_Eight\obj\Debug\net6.0\Question_Eight.AssemblyInfo.cs
+C:\Users\sreelakshmi.sajeev\source\repos\Question_Eight\Question_Eight\obj\Debug\net6.0\Question_Eight.csproj.CoreCompileInputs.cache
+C:\Users\sreelakshmi.sajeev\source\repos\Question_Eight\Question_Eight\obj\Debug\net6.0\Question_Eight.dll
+C:\Users\sreelakshmi.sajeev\source\repos\Question_Eight\Question_Eight\obj\Debug\net6.0\refint\Question_Eight.dll
+C:\Users\sreelakshmi.sajeev\source\repos\Question_Eight\Question_Eight\obj\Debug\net6.0\Question_Eight.pdb
+C:\Users\sreelakshmi.sajeev\source\repos\Question_Eight\Question_Eight\obj\Debug\net6.0\Question_Eight.genruntimeconfig.cache
+C:\Users\sreelakshmi.sajeev\source\repos\Question_Eight\Question_Eight\obj\Debug\net6.0\ref\Question_Eight.dll

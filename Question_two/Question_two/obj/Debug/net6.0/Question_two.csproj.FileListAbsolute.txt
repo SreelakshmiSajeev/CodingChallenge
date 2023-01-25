@@ -1,0 +1,15 @@
+C:\Users\sreelakshmi.sajeev\source\repos\Question_two\Question_two\bin\Debug\net6.0\Question_two.exe
+C:\Users\sreelakshmi.sajeev\source\repos\Question_two\Question_two\bin\Debug\net6.0\Question_two.deps.json
+C:\Users\sreelakshmi.sajeev\source\repos\Question_two\Question_two\bin\Debug\net6.0\Question_two.runtimeconfig.json
+C:\Users\sreelakshmi.sajeev\source\repos\Question_two\Question_two\bin\Debug\net6.0\Question_two.dll
+C:\Users\sreelakshmi.sajeev\source\repos\Question_two\Question_two\bin\Debug\net6.0\Question_two.pdb
+C:\Users\sreelakshmi.sajeev\source\repos\Question_two\Question_two\obj\Debug\net6.0\Question_two.csproj.AssemblyReference.cache
+C:\Users\sreelakshmi.sajeev\source\repos\Question_two\Question_two\obj\Debug\net6.0\Question_two.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreelakshmi.sajeev\source\repos\Question_two\Question_two\obj\Debug\net6.0\Question_two.AssemblyInfoInputs.cache
+C:\Users\sreelakshmi.sajeev\source\repos\Question_two\Question_two\obj\Debug\net6.0\Question_two.AssemblyInfo.cs
+C:\Users\sreelakshmi.sajeev\source\repos\Question_two\Question_two\obj\Debug\net6.0\Question_two.csproj.CoreCompileInputs.cache
+C:\Users\sreelakshmi.sajeev\source\repos\Question_two\Question_two\obj\Debug\net6.0\Question_two.dll
+C:\Users\sreelakshmi.sajeev\source\repos\Question_two\Question_two\obj\Debug\net6.0\refint\Question_two.dll
+C:\Users\sreelakshmi.sajeev\source\repos\Question_two\Question_two\obj\Debug\net6.0\Question_two.pdb
+C:\Users\sreelakshmi.sajeev\source\repos\Question_two\Question_two\obj\Debug\net6.0\Question_two.genruntimeconfig.cache
+C:\Users\sreelakshmi.sajeev\source\repos\Question_two\Question_two\obj\Debug\net6.0\ref\Question_two.dll

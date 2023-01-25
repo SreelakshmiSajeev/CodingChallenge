@@ -1,0 +1,15 @@
+C:\Users\sreelakshmi.sajeev\source\repos\Question_four\Question_four\bin\Debug\net6.0\Question_four.exe
+C:\Users\sreelakshmi.sajeev\source\repos\Question_four\Question_four\bin\Debug\net6.0\Question_four.deps.json
+C:\Users\sreelakshmi.sajeev\source\repos\Question_four\Question_four\bin\Debug\net6.0\Question_four.runtimeconfig.json
+C:\Users\sreelakshmi.sajeev\source\repos\Question_four\Question_four\bin\Debug\net6.0\Question_four.dll
+C:\Users\sreelakshmi.sajeev\source\repos\Question_four\Question_four\bin\Debug\net6.0\Question_four.pdb
+C:\Users\sreelakshmi.sajeev\source\repos\Question_four\Question_four\obj\Debug\net6.0\Question_four.csproj.AssemblyReference.cache
+C:\Users\sreelakshmi.sajeev\source\repos\Question_four\Question_four\obj\Debug\net6.0\Question_four.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreelakshmi.sajeev\source\repos\Question_four\Question_four\obj\Debug\net6.0\Question_four.AssemblyInfoInputs.cache
+C:\Users\sreelakshmi.sajeev\source\repos\Question_four\Question_four\obj\Debug\net6.0\Question_four.AssemblyInfo.cs
+C:\Users\sreelakshmi.sajeev\source\repos\Question_four\Question_four\obj\Debug\net6.0\Question_four.csproj.CoreCompileInputs.cache
+C:\Users\sreelakshmi.sajeev\source\repos\Question_four\Question_four\obj\Debug\net6.0\Question_four.dll
+C:\Users\sreelakshmi.sajeev\source\repos\Question_four\Question_four\obj\Debug\net6.0\refint\Question_four.dll
+C:\Users\sreelakshmi.sajeev\source\repos\Question_four\Question_four\obj\Debug\net6.0\Question_four.pdb
+C:\Users\sreelakshmi.sajeev\source\repos\Question_four\Question_four\obj\Debug\net6.0\Question_four.genruntimeconfig.cache
+C:\Users\sreelakshmi.sajeev\source\repos\Question_four\Question_four\obj\Debug\net6.0\ref\Question_four.dll

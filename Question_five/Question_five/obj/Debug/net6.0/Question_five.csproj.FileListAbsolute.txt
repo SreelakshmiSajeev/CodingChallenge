@@ -1,0 +1,15 @@
+C:\Users\sreelakshmi.sajeev\source\repos\Question_five\Question_five\bin\Debug\net6.0\Question_five.exe
+C:\Users\sreelakshmi.sajeev\source\repos\Question_five\Question_five\bin\Debug\net6.0\Question_five.deps.json
+C:\Users\sreelakshmi.sajeev\source\repos\Question_five\Question_five\bin\Debug\net6.0\Question_five.runtimeconfig.json
+C:\Users\sreelakshmi.sajeev\source\repos\Question_five\Question_five\bin\Debug\net6.0\Question_five.dll
+C:\Users\sreelakshmi.sajeev\source\repos\Question_five\Question_five\bin\Debug\net6.0\Question_five.pdb
+C:\Users\sreelakshmi.sajeev\source\repos\Question_five\Question_five\obj\Debug\net6.0\Question_five.csproj.AssemblyReference.cache
+C:\Users\sreelakshmi.sajeev\source\repos\Question_five\Question_five\obj\Debug\net6.0\Question_five.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreelakshmi.sajeev\source\repos\Question_five\Question_five\obj\Debug\net6.0\Question_five.AssemblyInfoInputs.cache
+C:\Users\sreelakshmi.sajeev\source\repos\Question_five\Question_five\obj\Debug\net6.0\Question_five.AssemblyInfo.cs
+C:\Users\sreelakshmi.sajeev\source\repos\Question_five\Question_five\obj\Debug\net6.0\Question_five.csproj.CoreCompileInputs.cache
+C:\Users\sreelakshmi.sajeev\source\repos\Question_five\Question_five\obj\Debug\net6.0\Question_five.dll
+C:\Users\sreelakshmi.sajeev\source\repos\Question_five\Question_five\obj\Debug\net6.0\refint\Question_five.dll
+C:\Users\sreelakshmi.sajeev\source\repos\Question_five\Question_five\obj\Debug\net6.0\Question_five.pdb
+C:\Users\sreelakshmi.sajeev\source\repos\Question_five\Question_five\obj\Debug\net6.0\Question_five.genruntimeconfig.cache
+C:\Users\sreelakshmi.sajeev\source\repos\Question_five\Question_five\obj\Debug\net6.0\ref\Question_five.dll
